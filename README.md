@@ -4,6 +4,12 @@
 
 This library for easy to use in NodeJS with NPM or Yarn installation. Please referer to our [REST API Documentation](https://docs.premiumfast.net/tutorials/whatsapp-gateway/rest-api) if you want to build in your own programing language.
 
+## Installation
+
+```
+npm i @premiumfastnet/wsgateway
+```
+
 # How to Use
 
 ## Send Message Example
