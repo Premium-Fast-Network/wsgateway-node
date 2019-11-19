@@ -1,5 +1,5 @@
 {
-  "name": "wsgateway",
+  "name": "@premiumfastnet/wsgateway",
   "version": "1.0.0",
   "description": "Library Package For WSGateway API",
   "main": "lib/wsgateway.js",
@@ -15,5 +15,8 @@
   "homepage": "https://github.com/Premium-Fast-Network/wsgateway-node#readme",
   "dependencies": {
     "axios": "^0.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
