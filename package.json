@@ -1,6 +1,6 @@
 {
   "name": "@premiumfastnet/wsgateway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library Package For WSGateway API",
   "main": "lib/wsgateway.js",
   "repository": {
