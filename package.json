@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/Premium-Fast-Network/wsgateway-node#readme",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "scripts": {
     "test": "echo \"No test specified\""
